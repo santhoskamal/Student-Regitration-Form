@@ -1,0 +1,32 @@
+h1{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 50px;
+    padding-left: 25px;
+}
+.sec{
+    width: 50%;
+}
+.container{
+    text-align:center;
+}
+hr{
+   border: 1px solid black;
+}
+form{
+    font-size: larger;
+    
+}
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.QY6QRwehKMgvq6nUeP3yrgHaE8?pid=ImgDet&rs=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input,textarea{
+    padding: 10px;
+    outline: 0;
+    border: 1px solid black;
+    color:black;
+    background: transparent;
+    border-radius: 12px;   
+
+}
